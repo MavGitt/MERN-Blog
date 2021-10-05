@@ -30,3 +30,6 @@ function cbpush(err, strout, sdtin) {
     //it worked
     console.log('done');
   }
+
+
+  // npm run gitty -- feat/(proxyTest):added script
