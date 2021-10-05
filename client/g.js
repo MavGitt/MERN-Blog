@@ -33,4 +33,4 @@ function cbpush(err, strout, sdtin) {
 
 
   // npm run gitty -- feat/(proxyTest):added script
-  // script: "gitty": "node g.js"
+  // script: "gitty": "node g.js" in package.json
